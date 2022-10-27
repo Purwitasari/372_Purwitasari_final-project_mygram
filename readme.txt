@@ -1,7 +1,6 @@
-Biodata 
 Kode Peserta : 149368582100-372
 Nama		 : Purwitasari
-Link Github  : 
+Link Github  : https://github.com/Purwitasari/372_Purwitasari_final-project_mygram
 
 
 Paduan Running Aplikasi	: 
