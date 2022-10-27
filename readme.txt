@@ -1,7 +1,7 @@
 Kode Peserta : 149368582100-372
 Nama		 : Purwitasari
 Link Github  : https://github.com/Purwitasari/372_Purwitasari_final-project_mygram
-
+URL POSTMAN  : https://documenter.getpostman.com/view/23639781/2s8YK6N6wh
 
 Paduan Running Aplikasi	: 
 1. Jalankan Xampp Apcahe dan MySQL
